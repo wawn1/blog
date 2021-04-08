@@ -1,8 +1,9 @@
 ---
 title: aa
+categories: Design Patterns
+abbrlink: 78a19d7
 date: 2021-04-06 16:41:48
 tags:
-categories: "react"
 ---
 
 ### hello word
